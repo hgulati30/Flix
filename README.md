@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://giphy.com/embed/wqPrEVmgJcd8ZcfXO9" width=250><br>
+<img src="https://media.giphy.com/media/wqPrEVmgJcd8ZcfXO9/giphy.gif?cid=790b76111b9184db7e9e72159d46d1d79ee4bf2a3cef3171&rid=giphy.gif&ct=g" width=250><br>
 
 ### Notes
 A challenge that I faced was installing Cocoapods on my M1 Macbook Pro. I likely found a post on Github (https://github.com/CocoaPods/CocoaPods/issues/10220) that helped me resolve the issue.
